@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 210e366a3bb1c4ca1a2cefe65b59cd62
+timeCreated: 1490888610
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monkirta Pursuit NC
+  fontNames:
+  - Monkirta Pursuit NC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
